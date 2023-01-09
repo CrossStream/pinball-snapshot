@@ -1,3 +1,10 @@
+pinball (0+0.3.20201218+52+gdf674e22-0.3.20201218+58+g032542d2) unstable; urgency=medium
+
+  * WIP: debian: Release 0+0.3.20201218+52+gdf674e22-
+    0.3.20201218+58+g032542d2 (snapshot)
+
+ -- Philippe Coval <philippe.coval@astrolabe.coop>  Mon, 09 Jan 2023 15:09:24 +0100
+
 pinball (0+0.3.20201218+52+gdf674e22-0.3.20201218+57+g0e8d9243) unstable; urgency=medium
 
   * WIP: debian: Release 0+0.3.20201218+52+gdf674e22-
